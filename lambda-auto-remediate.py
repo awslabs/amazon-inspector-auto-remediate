@@ -1,3 +1,5 @@
+# Copyright (c) 2016 Amazon Web Services, Inc.
+
 import boto3
 import json
 import logging
